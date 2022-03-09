@@ -1,0 +1,12 @@
+smartcontracts/node_modules
+smartcontracts/.env
+smartcontracts/coverage
+smartcontracts/coverage.json
+smartcontracts/typechain
+
+#Hardhat files
+smartcontracts/cache
+smartcontracts/artifacts
+
+#frontend
+frontend/node_modules
